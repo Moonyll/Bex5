@@ -17,3 +17,8 @@ namespace Bex5
         }
     }
 }
+/* boucle while
+int i = 0;
+while (i> week.Lenght)
+...
+i++;*/
